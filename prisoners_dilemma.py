@@ -172,7 +172,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
     ######
     ######
-    #
+    #dalecio
     elif player == 3:
         if getting_team_name:
             return 'loyal vengeful'
